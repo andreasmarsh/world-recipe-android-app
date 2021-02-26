@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project_2</string>
+
+    <string name="text_view">World Cultures and Recipes</string>
+
+    <string name="region_prompt">Select a Region</string>
+
+    <string name="left_radio">Overview</string>
+
+    <string name="rigth_radio">Recipes</string>
+
+    <string name="button_text">Go!</string>
+
+    <string-array name="region_array">
+        <item>Latin America</item>
+        <item>Europe</item>
+        <item>Asia</item>
+    </string-array>
+
+</resources>
